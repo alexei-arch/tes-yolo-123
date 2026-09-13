@@ -1,3 +1,3 @@
 # tes-yolo-123 nononono
 
-Co-authored-by: Wyo Nugraha <wyonugrahav2@gmail.com>
+Co-authored-by: Temen Hantu <temen.hantu12345@gmail.com>
